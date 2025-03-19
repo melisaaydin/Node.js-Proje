@@ -27,6 +27,7 @@ Projeyi çalıştırmadan önce aşağıdaki yazılımların sisteminizde kurulu
 # 1) Projeyi Klonlayın
 
 git clone https://github.com/melisaaydin/Node.js-Proje.git
+
  cd Node.js-Proje
 
 # 2)Bağımlılıkları Kurun
