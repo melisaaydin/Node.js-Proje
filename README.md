@@ -1,6 +1,7 @@
 Node.js ve MySQL ile Ürün Yönetim Uygulaması
 
 Bu proje, Node.js, Express.js ve MySQL kullanarak basit bir ürün yönetim sistemi oluşturur. Kullanıcılar ürünleri listeleyebilir, detaylarını görüntüleyebilir.
+
 Gerekli Kurulumlar
 
 Projeyi çalıştırmadan önce aşağıdaki yazılımların sisteminizde kurulu olduğundan emin olun:
