@@ -52,13 +52,9 @@ Aşağıdaki SQL sorgusunu MySQL'de çalıştırarak products tablosunu oluştur
 
 CREATE TABLE products (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    
-    name VARCHAR(255) NOT NULL,
-    
+    name VARCHAR(255) NOT NULL, 
     price DECIMAL(10,2) NOT NULL,
-    
     isActive BOOLEAN DEFAULT TRUE,
-    
     imageUrl VARCHAR(255)
 );
 
